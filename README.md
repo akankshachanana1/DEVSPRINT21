@@ -13,8 +13,9 @@ Visit [https://helping-hands-deployement2.netlify.app/) to see the live demo!
 <br>
 [Click here](https://share.synthesia.io/4de7b22e-cfab-4f2d-9131-1d030e9c10ef) to get a brief idea of what Helping Hands is .
 
-#### Presentation 
-[Click here](https://www.canva.com/design/DAGDHhIaNDA/PPvNH4KwRYimyqFOLGeZ1g/edit?utm_content=DAGDHhIaNDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+ [Presentation](https://www.canva.com/design/DAGDHhIaNDA/PPvNH4KwRYimyqFOLGeZ1g/edit?utm_content=DAGDHhIaNDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+<br>
+[Demo Video](https://drive.google.com/file/d/1cNJb6E_7B5Qu39tVV0T50JEFRU-bfxR9/view?usp=drive_link)
 
 <div>
   <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/4a07b161-b8d6-4803-804a-3b0db699023e" width="35" height="35"> Goal of our project </h2>
