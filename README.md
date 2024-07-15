@@ -10,6 +10,7 @@ At HelpingHands, It is a platform dedicated to helping individuals in need find 
 ## 👩‍💻 Live demo 
 
 Visit [https://helping-hands-deployement2.netlify.app/) to see the live demo!
+<br>
 [Click here](https://share.synthesia.io/4de7b22e-cfab-4f2d-9131-1d030e9c10ef) to get a brief idea of what Helping Hands is .
 
 <div>
