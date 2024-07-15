@@ -1,13 +1,4 @@
 
-<p align="center">
- <a href="https://github.com/ANSHIKA-26/HelpingHands2.0"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-     <a href="https://github.com/ANSHIKA-26/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>  
-    <a href="https://github.com/ANSHIKA-26/HelpingHands2.0/graphs/contributors"><img src="https://img.shields.io/github/contributors/ANSHIKA-26/HelpingHands2.0?color=brightgreen"></a>
-    <a href="https://github.com/ANSHIKA-26/HelpingHands2.0/stargazers"><img src="https://img.shields.io/github/stars/ANSHIKA-26/HelpingHands2.0?color=0059b3"></a>
-<a href="https://github.com/ANSHIKA-26/HelpingHands2.0/network/members"><img src="https://img.shields.io/github/forks/ANSHIKA-26/HelpingHands2.0?color=yellow"></a>
-<a href="https://github.com/ANSHIKA-26/HelpingHands2.0/issues"><img src="https://img.shields.io/github/issues/ANSHIKA-26/HelpingHands2.0?color=0059b3"></a>
-
-<hr/>
 
 <a name="Welcome to HelpingHands"></a>
 
