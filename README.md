@@ -9,7 +9,7 @@ At HelpingHands, It is a platform dedicated to helping individuals in need find 
 <a name="demo"></a>
 ## 👩‍💻 Live demo 
 
-Visit [https://helping-hands-deployement2.netlify.app/login) to see the live demo!
+Visit [https://helping-hands-deployement2.netlify.app/) to see the live demo!
 
 <div>
   <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/4a07b161-b8d6-4803-804a-3b0db699023e" width="35" height="35"> Goal of our project </h2>
