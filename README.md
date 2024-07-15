@@ -13,6 +13,9 @@ Visit [https://helping-hands-deployement2.netlify.app/) to see the live demo!
 <br>
 [Click here](https://share.synthesia.io/4de7b22e-cfab-4f2d-9131-1d030e9c10ef) to get a brief idea of what Helping Hands is .
 
+### Presentation 
+[Click here](https://www.canva.com/design/DAGDHhIaNDA/PPvNH4KwRYimyqFOLGeZ1g/edit?utm_content=DAGDHhIaNDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
 <div>
   <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/4a07b161-b8d6-4803-804a-3b0db699023e" width="35" height="35"> Goal of our project </h2>
 </div>
@@ -20,7 +23,7 @@ Visit [https://helping-hands-deployement2.netlify.app/) to see the live demo!
 The goal of our project is to help individuals in need find employment opportunities nearby. Whether you are looking for full-time, part-time, or temporary work, we are here to assist you in your job search journey.
 
 <div>
-    <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/1ee5934a-27be-4502-a7bf-e6a8c78fe5a3" width="35" height="35"> Benefits</h2>
+    <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/1ee5934a-27be-4502-a7bf-e6a8c78fe5a3" width="35" height="35"> Key Features/Benefits</h2>
 </div>
 
 - Easy access to employment opportunities
