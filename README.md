@@ -9,7 +9,7 @@ At HelpingHands, It is a platform dedicated to helping individuals in need find 
 <a name="demo"></a>
 ## 👩‍💻 Live demo 
 
-Visit [https://helping-hands-deployement2.netlify.app/) to see the live demo!
+[Visit ](https://helping-hands-deployement2.netlify.app/) to see the live demo!
 
 
 <br>
