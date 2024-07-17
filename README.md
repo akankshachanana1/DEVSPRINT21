@@ -39,7 +39,7 @@ The goal of our project is to help individuals in need find employment opportuni
 - Helpful resources and guidance for job seekers
 
 
-## 🤔 Why HelpingHands2.0? 
+## 🤔 Why HelpingHands? 
 The challenges faced by underprivileged groups such as electricians, plumbers, and other semi-skilled workers are significant and multifaceted. High unemployment rates, limited access to quality job opportunities, and inadequate educational resources perpetuate economic inequality and poverty within these communities. This is the pressing challenge that Helping Hands aims to address head-on.. By providing a space for employers to list jobs, and for professionals to showcase their skills, we are fostering connections that can lead to meaningful employment. Our initiative directly addresses UN Sustainable Development Goals 1 (No Poverty) and 8 (Decent Work and Economic Growth), contributing to a more equitable and prosperous world.
 
 
